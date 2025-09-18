@@ -2,6 +2,16 @@
 This MATLAB script models a composite laminate’s cure cycle by reading an experimental temperature profile, computing degree of cure, glass-transition temperature, evolving thermo-mechanical properties, thickness change, curvature, and final deflection, and compares the predicted deflection with experimental measurements.
 
 
+<img width="412" height="408" alt="image" src="https://github.com/user-attachments/assets/bdcc6a2c-50ab-42ba-be5c-9b2da1f297e3" />
+
+
+
+
+
+
+
+
+
 Copyright (c) 2025 Ahmad Reza Ravangard. All rights reserved.
 
 This code is provided for viewing, reading, and academic reference only.  
